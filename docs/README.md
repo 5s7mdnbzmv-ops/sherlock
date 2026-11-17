@@ -1,4 +1,4 @@
-<p align="center">
+sherlock @foxman120
   <br>
   <a href="https://sherlockproject.xyz/" target="_blank"><img src="images/sherlock-logo.png" alt="sherlock"/></a>
   <br>
